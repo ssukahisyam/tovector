@@ -1,0 +1,6 @@
+{
+  "name": "VectoForge",
+  "description": "Studio konversi gambar raster ke vektor SVG dengan pemrosesan batch, 5 algoritma tracing anti-mbulet (Potrace, VTracer, Geometric, Pixel, Centerline), dan inspektur node Bezier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

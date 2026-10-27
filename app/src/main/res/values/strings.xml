@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VectoForge</string>
+    <string name="studio_subtitle">Precision Raster-to-Vector &amp; Batch Tracing Engine</string>
+    <string name="tab_batch_queue">Antrean Batch</string>
+    <string name="tab_vector_studio">Vector Studio</string>
+    <string name="tab_svg_inspector">Kode &amp; Ekspor</string>
+    <string name="action_add_images">Pilih Gambar</string>
+    <string name="action_load_samples">Muat Paket Sampel</string>
+    <string name="action_trace_all">Proses Batch</string>
+    <string name="action_export_zip">Ekspor Batch (.ZIP)</string>
+    <string name="action_export_svg">Simpan .SVG</string>
+    <string name="action_share_svg">Bagikan .SVG</string>
+    <string name="action_copy_svg">Salin Kode SVG</string>
+    <string name="mode_potrace_bw">Potrace B/W Clean</string>
+    <string name="mode_geometric_sharp">Geometric Anti-Mbulet</string>
+    <string name="mode_vtracer_color">VTracer Multicolor</string>
+    <string name="mode_pixel_polygon">Pixel Art Polygon</string>
+    <string name="mode_centerline_sketch">Centerline Stroke</string>
+    <string name="label_global_preset">Preset Global Batch</string>
+    <string name="label_custom_override">Override Kustom</string>
+    <string name="label_before_after">Split: Raster vs Vektor</string>
+    <string name="label_wireframe_nodes">Wireframe &amp; Titik Bezier</string>
+    <string name="label_layers_paths">Layer &amp; Path Pruner</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana implementasi lengkap untuk VectoForge Studio: aplikasi Android konversi gambar raster ke vektor (SVG) dengan pemrosesan batch, 5 mode algoritma tracing khusus (Potrace B/W, Anti-Mbulet Geometric, VTracer Multicolor, Pixel Art, dan Centerline Sketch), inspektur node Bezier interaktif, perbandingan split-screen, serta ekspor SVG & bundel ZIP.",
+  "updatedAt":  "2026-10-27T08:40:19.525426993Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
